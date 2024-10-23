@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\مجلد جديد (2)\numofnum\bin\Debug\numofnum.exe.config
+C:\Users\DELL\Desktop\مجلد جديد (2)\numofnum\bin\Debug\numofnum.exe
+C:\Users\DELL\Desktop\مجلد جديد (2)\numofnum\bin\Debug\numofnum.pdb
+C:\Users\DELL\Desktop\مجلد جديد (2)\numofnum\obj\Debug\numofnum.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\مجلد جديد (2)\numofnum\obj\Debug\numofnum.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\مجلد جديد (2)\numofnum\obj\Debug\numofnum.exe
+C:\Users\DELL\Desktop\مجلد جديد (2)\numofnum\obj\Debug\numofnum.pdb
